@@ -1,9 +1,13 @@
 import {
     mobile,
     backend,
+    _3D,
     creator,
+    responsive,
     web,
-    // nextjs,
+    frontend,
+    nextjs,
+
     // express,
     // awscloud,
     // graphql,
@@ -79,7 +83,15 @@ import {
     },
     {
       title: "Frontend Developer",
-      icon: mobile,
+      icon: frontend,
+    },
+    {
+      title: "Responsive Developer",
+      icon: responsive,
+    },
+    {
+      title: "3D Web Developer",
+      icon: _3D,
     },
   ];
   
@@ -116,10 +128,10 @@ import {
     //   name: "MySQL",
     //   icon: mysql,
     // },
-    // {
-    //   name: "NextJS",
-    //   icon: nextjs,
-    // },
+    {
+      name: "NextJS",
+      icon: nextjs,
+    },
     {
       name: "JavaScript",
       icon: javascript,

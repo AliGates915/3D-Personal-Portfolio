@@ -1,10 +1,13 @@
 // Heros Images
-import logo from "./AG.png";
+// import logo from "./AG.png";
 import business from './business.jpg'
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import backend from "./backend.jpg";
+import responsive from "./responsive.png";
+import _3D from "./3d.jpg";
+import creator from "./creator.jpg";
+import mobile from "./mobile.svg";
+import web from "./web.jpg";
+import frontend from "./frontend.jpg";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -42,14 +45,17 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  // logo,
   business,
   backend,
   creator,
   mobile,
   web,
+  _3D,
+  responsive,
   github,
   menu,
+  frontend,
   close,
   css,
   java,
